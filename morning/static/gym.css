@@ -1,0 +1,20 @@
+body{
+  background: url(https://images.unsplash.com/photo-1557564437-0995702f88fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  text-align: left;
+  color: white;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+table{
+  table-layout: auto;
+  text-align: left;
+  color: white;
+}
+.navbar a{
+  color: white;
+}
+h1{
+  text-align: right;
+  color: white;
+}
